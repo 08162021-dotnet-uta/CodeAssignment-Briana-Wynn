@@ -6,6 +6,7 @@ namespace SweetnSalty_Console
   {
     static void Main(string[] args)
     {
+      //calls to the static method sweetnsalty
       SweetnSalty();
     }
 
